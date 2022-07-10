@@ -4,3 +4,6 @@
 /*/*/Cargo.lock
 /*/*/main
 /*/*/*/target
+/*/*/*/Cargo.lock
+/*/*/*/*/target
+/*/*/*/*/Cargo.lock
