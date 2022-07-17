@@ -3,7 +3,7 @@ fn main() {
 
     const DAYS: [&str; 12] = [
         "first", "second", "third", "fourth", "fifth", "sixth", "seventh", "eighth", "nineth",
-        "tenth", "eleventh", "twelft",
+        "tenth", "eleventh", "twelfth",
     ];
 
     const VERSES: [&str; 12] = [
